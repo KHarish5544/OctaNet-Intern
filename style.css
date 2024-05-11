@@ -1,0 +1,34 @@
+body{
+    background-image: url("hi.jpg");
+    background-position: center;
+    background-size: cover;
+}
+#main{
+    width: 740px;
+}
+h1{
+    font-weight: 2000;
+    font-size: 500%;
+    font-family:'Times New Roman', Times, serif;
+    text-shadow: 1px 2px 2px rgba(255,248,255,0.62);
+}
+.para{
+    font-weight: 1000;
+    color: rgb(8, 6, 6);
+    font-size: 150%;
+    text-shadow: 1px 2px 2px rgba(255,247,255,0.81);  
+}
+.contact
+{
+    margin-top: 115px;
+}
+i{
+    margin-right: 20px;
+    text-shadow: 1px 2px 2px rgba(255,247,255,0.81);   
+}
+h4{
+    font-weight: 1000;
+    font-size: 40px;
+    text-shadow: 1px 2px 2px rgba(255,247,255,0.81);
+}
+
